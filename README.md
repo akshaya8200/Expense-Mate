@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="#introduction"><strong>Introduction</strong></a> ·
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
-  <a href="#prerequisites"><strong>Prerequisites</strong></a> ·
-  <a href="#local-setup"><strong>Local Setup & Installation</strong></a> ·
+  <a href="#introduction"><strong>Introduction</strong></a> ï¿½
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> ï¿½
+  <a href="#prerequisites"><strong>Prerequisites</strong></a> ï¿½
+  <a href="#local-setup"><strong>Local Setup & Installation</strong></a> ï¿½
   <a href="#ai-insights-gemini-optional"><strong>AI Insights</strong></a>
 </p>
 <br/>
@@ -48,7 +48,6 @@ npm install
 Create your local environment files:
 ```bash
 cp .env.example .env
-cp .env.example .env.local
 ```
 Inside your `.env` file, update the `DATABASE_URL` with your running PostgreSQL connection string:
 ```env
